@@ -3070,6 +3070,96 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		BikoBold12
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		BikoBold16
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		BikoBold24
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		BikoBold36
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		BikoBold48
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		BikoBlack12
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		BikoBlack16
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		BikoBlack24
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		BikoBlack36
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		BikoBlack48
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
 		
 	}
 	
